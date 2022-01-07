@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @harizal, I'm .NET Deveeloper 👦
+- 👋 Hi, I’m @harizal, I'm .NET Developer 👦
